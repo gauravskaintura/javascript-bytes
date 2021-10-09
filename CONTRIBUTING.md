@@ -4,7 +4,7 @@
 
 ## How you can contribute
 
-- First start and fork this repository and clone it in your local system.
+- First star and fork this repository and clone it in your local system.
 - Find relevant topics related to the subject that are short and concise and add it with the relevant title.
 - Please note that all submission must be in the markdown format only unless stated otherwise.
 - Submit pull requests with new bytes.
