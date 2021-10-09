@@ -1,5 +1,6 @@
 ﻿
-![Banner](banner.png"JavaScript Bytes")
+![Banner](/banner.png)
+
 # JavaScript Bytes
 >short 1-2 minutes bytes on JavaScript language
 
